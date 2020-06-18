@@ -1,1 +1,1 @@
-# Marshall McLuhan
+# Nina Hagen
