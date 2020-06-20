@@ -11,3 +11,5 @@ Herbert Marshall McLuhan (July 21, 1911 – December 31, 1980) was a Canadian ph
 
 > Literate culture is visual and detached.
 > It creates the civilized man, the detribalized man, the man who is not involved.
+
+<img src="./220px-Marshall_McLuhan.jpg"/> 
